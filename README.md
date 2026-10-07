@@ -2,3 +2,7 @@
 
 <img width="383" height="364" alt="image" src="https://github.com/user-attachments/assets/57772b06-4d7b-4722-a19e-9a666ba1624a" />
 
+
+## License
+
+[MIT](LICENSE).
